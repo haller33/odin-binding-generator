@@ -19,7 +19,7 @@ complex macros expansions are considered "intended". The goal is not
 to parse and resolve C wrong design decisions, but just be able
 to get a `.odin` file that works with most of C libraries.
 
-**I'm dropping the support of this tool at the end of 2022.**
+**I'm continue the support of this tool at the end of 2022.**
 
 ## Usage
 
